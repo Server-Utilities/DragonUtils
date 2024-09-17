@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+#issueTrackerURL = ""
+license = "Insert License Here"
+
+[[mods]]
+modId = "dragonutils"
+version = "1.0.0"
+displayName = "DragonUtils"
+authors = "MrDrakify"
+description = '''
+Simple utility mod and api for Minecraft Forge.
+'''
+#logoFile = ""
+
+[[dependencies.dragonutils]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.dragonutils]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.dragonutils]]
+modId = "luckperms"
+mandatory = false
+versionRange = "*"
+ordering = "AFTER"
+side = "BOTH"

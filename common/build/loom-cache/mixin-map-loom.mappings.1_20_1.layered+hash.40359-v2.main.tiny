@@ -1,0 +1,3 @@
+v1	named	intermediary
+FIELD	host/plas/dragonutils/mixin/ServerGamePacketListenerImplMixin	Lnet/minecraft/server/level/ServerPlayer;	player	field_14140
+FIELD	host/plas/dragonutils/mixin/ServerGamePacketListenerImplMixin	Lnet/minecraft/server/MinecraftServer;	server	field_14148

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "host/plas/dragonutils/mixin/ServerGamePacketListenerImplMixin": {
+      "handleChat(Lnet/minecraft/network/protocol/game/ServerboundChatPacket;)V": "Lnet/minecraft/class_3244;method_12048(Lnet/minecraft/class_2797;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "host/plas/dragonutils/mixin/ServerGamePacketListenerImplMixin": {
+        "handleChat(Lnet/minecraft/network/protocol/game/ServerboundChatPacket;)V": "Lnet/minecraft/class_3244;method_12048(Lnet/minecraft/class_2797;)V"
+      }
+    }
+  }
+}

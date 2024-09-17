@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "dragonutils",
+  "version": "1.0.0",
+  "name": "DragonUtils",
+  "description": "Simple utility mod and api for Minecraft Forge.",
+  "authors": [
+    "MrDrakify"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/dragonutils/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "host.plas.dragonutils.fabric.DragonUtilsFabric"
+    ],
+    "client": [
+      "host.plas.dragonutils.fabric.client.DragonUtilsFabricClient"
+    ]
+  },
+  "mixins": [
+    "dragonutils.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "luckperms": "*"
+  }
+}

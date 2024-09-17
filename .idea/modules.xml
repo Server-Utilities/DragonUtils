@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dragonutils.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dragonutils.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dragonutils.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dragonutils.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dragonutils.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dragonutils.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric-like/dragonutils.fabric-like.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric-like/dragonutils.fabric-like.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric-like/dragonutils.fabric-like.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric-like/dragonutils.fabric-like.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/dragonutils.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/dragonutils.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/dragonutils.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/dragonutils.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/dragonutils.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/dragonutils.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/dragonutils.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/dragonutils.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/dragonutils.quilt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/dragonutils.quilt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/dragonutils.quilt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/dragonutils.quilt.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric-like/host.plas.dragonutils.fabric-like.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric-like/host.plas.dragonutils.fabric-like.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric-like/host.plas.dragonutils.fabric-like.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric-like/host.plas.dragonutils.fabric-like.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric-like/host.plas.dragonutils.fabric-like.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric-like/host.plas.dragonutils.fabric-like.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/host.plas.dragonutils.quilt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/host.plas.dragonutils.quilt.test.iml" />
+    </modules>
+  </component>
+</project>

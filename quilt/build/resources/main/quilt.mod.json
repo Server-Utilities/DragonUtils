@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "quilt_loader": {
+    "group": "host.plas",
+    "id": "dragonutils",
+    "version": "1.0.0",
+    "metadata": {
+      "name": "DragonUtils",
+      "description": "This is an example description! Tell everyone what your mod is about!",
+      "contributors": {
+        "MrDrakify": "Author"
+      },
+      "icon": "assets/dragonutils/icon.png"
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary",
+    "entrypoints": {
+      "init": [
+        "host.plas.dragonutils.quilt.DragonUtilsQuilt"
+      ]
+    },
+    "depends": [
+      {
+        "id": "quilt_loader",
+        "version": "*"
+      },
+      {
+        "id": "quilt_base",
+        "version": "*"
+      },
+      {
+        "id": "minecraft",
+        "version": ">=1.20.1"
+      }
+    ],
+    "suggests": [
+      {
+        "id": "luckperms",
+        "version": "*"
+      }
+    ]
+  },
+  "mixin": [
+    "dragonutils.mixins.json"
+  ]
+}
